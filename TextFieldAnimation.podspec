@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.description         = "Using TextFieldAnimation framework, you can add custom leftView and rightView image, append pending, animate the placeholder with custom color and font family, add action in leftView and rightView"
 
   s.homepage            = "https://github.com/AghaShahriyar"
-  s.license             = "MIT"
+  s.license             = { :type => 'MIT', :file => 'MIT-LICENSE.txt' }
   s.author              = { "Agha Shahriyar" => "aghaf13@yahoo.com" }
   s.platform            = :ios, "12.0"
   s.source               
